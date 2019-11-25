@@ -27,6 +27,17 @@
 'SELECT "events_event"."id", "events_event"."epic_id", "events_event"."details", "events_event"."years_ago" FROM "events_event" WHERE "events_event"."years_ago" > 5'
 ```
 
+- 实例3
+
+获取非Queryset的query
+
+```python
+>>> from django.db import connection
+>>> e = Event(epic_id='12', years_ago='2019')
+>>> e.save()
+>>> print(connection.queries)
+```
+
 ## 如何在Django ORM中进行OR查询
 
 - 添加测试数据
