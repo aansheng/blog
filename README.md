@@ -9,6 +9,7 @@
 
 ## 2019
 
+- 2019年12月12日 [重置GitLab root密码](//blog.ansheng.me/article/reset-gitlab-root-password)
 - 2019年10月14日 [在类Unix中创建加密的压缩包](//blog.ansheng.me/article/create-an-encrypted-tarball-in-Unix-like)
 - 2019年08月26日 [PostgreSQL 备份与恢复](//blog.ansheng.me/article/postgresql-backup-and-restore)
 - 2019年08月26日 [PostgreSQL 基础教程](//blog.ansheng.me/article/postgresql-basic-tutorial)
