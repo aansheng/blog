@@ -9,7 +9,7 @@
 
 ## 2020
 
-- 2020年4月26日 [重置GitLab root密码](//blog.ansheng.me/article/python-pyotp-google-authenticator)
+- 2020年4月26日 [Python项目整合PyOTP+Google Authenticator](//blog.ansheng.me/article/python-pyotp-google-authenticator)
 
 ## 2019
 
