@@ -7,6 +7,10 @@
 - [Python全栈之路](//blog.ansheng.me/article/python-full-stack-way)
 - [记一些杂技（持续更新）](//blog.ansheng.me/article/remember-some-acrobatics)
 
+## 2020
+
+- 2020年4月26日 [重置GitLab root密码](//blog.ansheng.me/article/python-pyotp-google-authenticator)
+
 ## 2019
 
 - 2019年12月12日 [重置GitLab root密码](//blog.ansheng.me/article/reset-gitlab-root-password)
