@@ -408,3 +408,8 @@ create database DB_NAME;
 create user DB_USER with encrypted password 'USER_PASSWORD';
 grant all privileges on database DB_NAME to DB_USER;
 ```
+
+```sql
+\du
+alter role <user-name> superuser;
+```
