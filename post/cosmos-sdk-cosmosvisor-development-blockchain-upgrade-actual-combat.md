@@ -91,7 +91,7 @@ git branch -m v1.0.0
 
 创建一个查询ping，返回PONG+版本号
 
-```bash
+```
 $ ignite scaffold query ping --response text
 $ vim x/simapp/keeper/grpc_query_ping.go +22
 return &types.QueryPingResponse{Text: "PONG, v1.0.0"}, nil
