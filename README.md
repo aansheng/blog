@@ -1,5 +1,45 @@
 # Home
 
+<!-- ## 2022
+
+- 11-12 [使用非对称加密(OpenSSL/GPG)确保数据安全](//blog.ansheng.me/post/)
+- 10-28 [Cosmos-SDK+Cosmosvisor开发区块链升级实战](//blog.ansheng.me/post/)
+- 10-21 [在EVM兼容链(Evmos)上部署UniSwap V2版本的contract和interface](//blog.ansheng.me/post/)
+- 10-20 [Docker自建MTProxy TG专用代理](//blog.ansheng.me/post/)
+- 10-18 [CertBot+CloudFlare+Docker申请通配符域名证书](//blog.ansheng.me/post/)
+- 10-12 [搭建Evmos多节点的测试环境](//blog.ansheng.me/post/)
+- 09-29 [利用Cosmos SDK快速部署一条Hello公链](//blog.ansheng.me/post/)
+- 07-25 [部署个人的比特币DNS Seed](//blog.ansheng.me/post/)
+- 07-22 [部署BTC(Bitcoin)私有网络(Regtest链)](//blog.ansheng.me/post/)
+- 04-25 [使用OpenZeppelin和HardHat构建可升级的Solidity智能合约](//blog.ansheng.me/post/)
+- 04-18 [在Nextjs项目中集成Ant Design UI组件库](//blog.ansheng.me/post/)
+- 04-14 [如何在Docker中运行IPFS节点](//blog.ansheng.me/post/)
+- 04-13 [通过智能合约在OpenSea上构建盲盒类型的NFT](//blog.ansheng.me/post/)
+- 04-12 [HashLips Art Engine批量创建NFT盲盒的艺术作品](//blog.ansheng.me/post/)
+- 01-16 [Certbot使用DNS和文件验证两种方式申请SSL证书](//blog.ansheng.me/post/) -->
+
+## 2021
+
+- 12-30 [利用Clef生成以太坊离线签名以及如何发送转账、合约和Token](//blog.ansheng.me/post/use-clef-to-generate-ethereum-offline-signatures-and-how-to-send-transfers-contracts-and-tokens)
+- 12-29 [可替代Geth账户管理且功能更强大的Clef使用指南](//blog.ansheng.me/post/a-more-powerful-clef-user-guide-that-can-replace-geth-account-management)
+- 12-27 [Geth私链和开源BlockScout浏览器构建私有以太坊网络](//blog.ansheng.me/post/geth-private-chain-and-open-source-blockscout-browser-build-private-ethereum-network)
+- 12-13 [OpenZeppelin快速部署兼容EVM链的智能合约(以FTM链为例)](//blog.ansheng.me/post/openzeppelin-quickly-deploys-smart-contracts-compatible-with-the-evm-chain-ftm-chain-example)
+- 11-25 [群晖NAS使用Docker部署qBittorrent下载工具](//blog.ansheng.me/post/synology-nas-uses-docker-to-deploy-the-qbittorrent-download-tool)
+- 09-05 [Ubuntu 20.04部署索拉纳(Solana)Devnet网Validator](//blog.ansheng.me/post/deploying-solana-devnet-validator-on-ubuntu-20-04)
+- 09-03 [索拉纳(Solana)命令行(CLI)钱包及基本操作](//blog.ansheng.me/post/solana-command-line-wallet-and-basic-operations)
+- 09-02 [从源码构建Solana(索拉纳)](//blog.ansheng.me/post/build-solana-from-source-code)
+- 08-13 [Linux下mdadm工具创建软RAID磁盘阵列](//blog.ansheng.me/post/creating-a-soft-raid-disk-array-with-mdadm-tool-under-linux)
+- 08-11 [CentOS Linux部署NFS服务](//blog.ansheng.me/post/centos-linux-deploys-nfs-service)
+- 07-16 [FileCoin Lotus Miner迁移](//blog.ansheng.me/post/filecoin-lotus-miner-migration)
+- 07-04 [FileCoin Louts本地2K开发/测试环境部署指南](//blog.ansheng.me/post/filecoin-louts-local-2k-development-test-environment-deployment-guide)
+- 04-20 [通过Cephadm部署容器化Ceph集群](//blog.ansheng.me/post/deploy-a-containerized-ceph-cluster-through-cephadm)
+- 04-18 [Ceph块存储挂载到本地实践](//blog.ansheng.me/post/mount-cephfs-to-local-via-mount)
+- 04-18 [Ceph集群增加OSD节点](//blog.ansheng.me/post/ceph-cluster-adds-osd-nodes)
+- 04-18 [Ceph集群增加Mon节点](//blog.ansheng.me/post/ceph-cluster-adds-mon-nodes)
+- 04-18 [CentOS手动部署Ceph集群](//blog.ansheng.me/post/centos-manual-deployment-of-ceph-cluster)
+- 04-18 [通过mount将cephfs挂载到本地](//blog.ansheng.me/post/mount-ceph-block-storage-to-local-practice)
+- 04-01 [容器化(Docker)部署poste.io私有邮局](//blog.ansheng.me/post/container-docker-deploy-poste-io-private-post-office)
+
 ## 2020
 
 - 11-20 [Gogs Docker化部署以及配置LDAP(FreeIPA)认证](//blog.ansheng.me/post/gogs-dockerized-deployment-and-configuration-of-ldap-freeipa-authentication)
