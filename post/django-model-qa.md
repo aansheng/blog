@@ -1,7 +1,5 @@
 # Django模型常见问题
 
-[TOC]
-
 ## 如何查看queryset的SQL语句
 
 有时你想知道`Django ORM`如何执行我们的查询或者你正在编写的代码的对应SQL是什么，你可以通过`queryset.query`的`str`以获取执行SQL语句
