@@ -383,8 +383,7 @@ cp ~/simapp/build/simappd_v2.0.0 $DAEMON_HOME/cosmovisor/upgrades/v2.0.0/bin/sim
 9:06AM ERR UPGRADE "v2.0.0" NEEDED at height: 30:
 9:06AM ERR CONSENSUS FAILURE!!! err="UPGRADE \"v2.0.0\" NEEDED at height: 30: " module=consensus stack="......"
 9:06AM INF service stop impl={"Logger":{}} module=consensus msg={} wal=/root/.simapp/data/cs.wal/wal
-9:06AM INF service stop impl={"Dir":"/root/.simapp/data/cs.wal","Head":{"ID":"nwzjrIk7tTEe:/root/.simapp/data/cs.wal/wal","Path":"/root/.simapp/data/cs.wal/wal"},"ID":"group:nwzjrIk7tTEe:/root/.simapp/data/cs.wal/wal","Logger":{}} module=consensus msg={} wal=/root/.sima
-pp/data/cs.wal/wal
+9:06AM INF service stop impl={"Dir":"/root/.simapp/data/cs.wal","Head":{"ID":"nwzjrIk7tTEe:/root/.simapp/data/cs.wal/wal","Path":"/root/.simapp/data/cs.wal/wal"},"ID":"group:nwzjrIk7tTEe:/root/.simapp/data/cs.wal/wal","Logger":{}} module=consensus msg={} wal=/root/.simapp/data/cs.wal/wal
 9:06AM INF daemon shutting down in an attempt to restart module=cosmovisor
 9:06AM INF starting to take backup of data directory backup start time=2022-10-28T09:06:08Z module=cosmovisor
 9:06AM INF backup completed backup completion time=2022-10-28T09:06:08Z backup saved at=/root/.simapp/data-backup-2022-10-28 module=cosmovisor time taken to complete backup=4.102271
@@ -407,8 +406,7 @@ pp/data/cs.wal/wal
 9:06AM INF v1.0.0 upgrade to v2.0.0... upgrade=v2.0.0
 9:06AM INF minted coins from module account amount=2059736728406547617stake from=mint module=x/bank
 9:06AM INF executed block height=30 module=consensus num_invalid_txs=0 num_valid_txs=0
-9:06AM INF commit synced commit=436F6D6D697449447B5B31323620323331203533203232203235203136203230302036312032313820313920373620353120363320323920333020313631203334203136392032313620323436203637203933203136332031353820313331203433203233372031363820323330203930203231352037
-375D3A31457D
+9:06AM INF commit synced commit=436F6D6D697449447B5B31323620323331203533203232203235203136203230302036312032313820313920373620353120363320323920333020313631203334203136392032313620323436203637203933203136332031353820313331203433203233372031363820323330203930203231352037375D3A31457D
 9:06AM INF committed state app_hash=7EE735161910C83DDA134C333F1D1EA122A9D8F6435DA39E832BEDA8E65AD74D height=30 module=consensus num_txs=0
 9:06AM INF Completed ABCI Handshake - Tendermint and App are synced appHash="____\x00I_]i\x05(__NC?_p\x05_w>j_h\fJ_____" appHeight=29 module=consensus
 9:06AM INF Version info block=11 p2p=8 tendermint_version=0.34.22
@@ -442,25 +440,21 @@ pp/data/cs.wal/wal
 9:06AM INF Ensure peers module=pex numDialing=0 numInPeers=0 numOutPeers=0 numToDial=10
 9:06AM INF No addresses to dial. Falling back to seeds module=pex
 9:06AM INF Timed out dur=4997.559085 height=31 module=consensus round=0 step=1
-9:06AM INF received proposal module=consensus proposal={"Type":32,"block_id":{"hash":"380F92D76D209DF516F2A5EF2FAE2D27CA421F888C91A3F250C3AC7A86A97FA1","parts":{"hash":"B8ED33096C255242269779A8EFF6B185F9C64486ECBBB936A431352C332765EC","total":1}},"height":31,"pol_round"
-:-1,"round":0,"signature":"4elm5tQex9Ml62qIB5Nj0zIWckMDTjr1ebYSMvCzI0ZGAm4YGaPsIExjaW48Qp7cYct3S4cyEScwAN/3mfzoAQ==","timestamp":"2022-10-28T09:06:13.798906293Z"}
+9:06AM INF received proposal module=consensus proposal={"Type":32,"block_id":{"hash":"380F92D76D209DF516F2A5EF2FAE2D27CA421F888C91A3F250C3AC7A86A97FA1","parts":{"hash":"B8ED33096C255242269779A8EFF6B185F9C64486ECBBB936A431352C332765EC","total":1}},"height":31,"pol_round":-1,"round":0,"signature":"4elm5tQex9Ml62qIB5Nj0zIWckMDTjr1ebYSMvCzI0ZGAm4YGaPsIExjaW48Qp7cYct3S4cyEScwAN/3mfzoAQ==","timestamp":"2022-10-28T09:06:13.798906293Z"}
 9:06AM INF received complete proposal block hash=380F92D76D209DF516F2A5EF2FAE2D27CA421F888C91A3F250C3AC7A86A97FA1 height=31 module=consensus
 9:06AM INF finalizing commit of block hash={} height=31 module=consensus num_txs=0 root=7EE735161910C83DDA134C333F1D1EA122A9D8F6435DA39E832BEDA8E65AD74D
 9:06AM INF minted coins from module account amount=2059737097170852562stake from=mint module=x/bank
 9:06AM INF executed block height=31 module=state num_invalid_txs=0 num_valid_txs=0
-9:06AM INF commit synced commit=436F6D6D697449447B5B3130322037203638203737203230392031393620313420313332203138362031323420363620352038332034322031353220313620323434203231203234372033203231312031373620343220313520323320313932203531203233302032343020393220323432203230375D
-3A31467D
+9:06AM INF commit synced commit=436F6D6D697449447B5B3130322037203638203737203230392031393620313420313332203138362031323420363620352038332034322031353220313620323434203231203234372033203231312031373620343220313520323320313932203531203233302032343020393220323432203230375D3A31467D
 9:06AM INF committed state app_hash=6607444DD1C40E84BA7C4205532A9810F415F703D3B02A0F17C033E6F05CF2CF height=31 module=state num_txs=0
 9:06AM INF indexed block exents height=31 module=txindex
 9:06AM INF Timed out dur=4992.31555 height=32 module=consensus round=0 step=1
-9:06AM INF received proposal module=consensus proposal={"Type":32,"block_id":{"hash":"E5F9B6D971F837DF5680A59CF1AB5200D5E9880F90F5A3B4CC97054B555DC162","parts":{"hash":"2F1DB2D3E5015FCFED72252006C112F31564165304AF78EF25930889566AC9E8","total":1}},"height":32,"pol_round"
-:-1,"round":0,"signature":"P1EjWPQBijQNl78A9JFRA7ou+SYnEN0kCH0SZlk7cqSdQOyggTf8VLt36TuOJh9g5GJcDjcMusvVdOyUbWPbAw==","timestamp":"2022-10-28T09:06:18.816719347Z"}
+9:06AM INF received proposal module=consensus proposal={"Type":32,"block_id":{"hash":"E5F9B6D971F837DF5680A59CF1AB5200D5E9880F90F5A3B4CC97054B555DC162","parts":{"hash":"2F1DB2D3E5015FCFED72252006C112F31564165304AF78EF25930889566AC9E8","total":1}},"height":32,"pol_round":-1,"round":0,"signature":"P1EjWPQBijQNl78A9JFRA7ou+SYnEN0kCH0SZlk7cqSdQOyggTf8VLt36TuOJh9g5GJcDjcMusvVdOyUbWPbAw==","timestamp":"2022-10-28T09:06:18.816719347Z"}
 9:06AM INF received complete proposal block hash=E5F9B6D971F837DF5680A59CF1AB5200D5E9880F90F5A3B4CC97054B555DC162 height=32 module=consensus
 9:06AM INF finalizing commit of block hash={} height=32 module=consensus num_txs=0 root=6607444DD1C40E84BA7C4205532A9810F415F703D3B02A0F17C033E6F05CF2CF
 9:06AM INF minted coins from module account amount=2059737465935178546stake from=mint module=x/bank
 9:06AM INF executed block height=32 module=state num_invalid_txs=0 num_valid_txs=0
-9:06AM INF commit synced commit=436F6D6D697449447B5B35352032303720383220393920373220323037203135342034332036302032323420323430203234362032343020363820393920343320362032313020333720392033372034203134342031353120313732203236203831203139392031323220323038203238203134345D3A
-32307D
+9:06AM INF commit synced commit=436F6D6D697449447B5B35352032303720383220393920373220323037203135342034332036302032323420323430203234362032343020363820393920343320362032313020333720392033372034203134342031353120313732203236203831203139392031323220323038203238203134345D3A32307D
 9:06AM INF committed state app_hash=37CF526348CF9A2B3CE0F0F6F044632B06D2250925049097AC1A51C77AD01C90 height=32 module=state num_txs=0
 ```
 
