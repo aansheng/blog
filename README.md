@@ -1,5 +1,3 @@
-# Welcome to ansheng’s blog!
-
 ## 专题系列
 
 - [Django与DRF常见问题汇总](//blog.ansheng.me/post/django-and-drf-faq)

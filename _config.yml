@@ -1,9 +1,9 @@
 theme: jekyll-theme-modernist
-title: "安生博客"
-description: "安生博客(Blog.anSheng.Me)，记录学习及工作中的日常。"
+title: "ansheng’s blog!"
+description: "安生博客(blog.ansheng.me)，记录学习及工作中的日常。"
 timezone: Asia/Shanghai
 lang: zh
-google_analytics: "UA-89592236-1"
+google_analytics: "G-1VX89K34GP"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
