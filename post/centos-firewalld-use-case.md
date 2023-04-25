@@ -163,3 +163,7 @@ $ firewall-cmd --add-forward-port=port=8080:proto=udp:toaddr=2.2.2.2:toport=666 
 ```
 
 重载配置文件
+
+```bash
+$ firewall-cmd --reload
+```
