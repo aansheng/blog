@@ -1,6 +1,6 @@
 # Ceph集群增加OSD节点
 
-继上篇文章[CentOS手动部署Ceph集群](https://ansheng.me/centos-manual-deployment-of-ceph-cluster/)，我们增加一个节点信息，用来专门往Ceph集群中增加一个OSD节点。
+继上篇文章[CentOS手动部署Ceph集群](https://blog.ansheng.me/post/centos-manual-deployment-of-ceph-cluster/)，我们增加一个节点信息，用来专门往Ceph集群中增加一个OSD节点。
 
 ## 节点信息
 
@@ -8,7 +8,7 @@
 |:--|:--|:--|:--|
 |node5|CentOS 8|192.168.200.105|192.168.201.105|
 
-系统初始化可以参考[CentOS手动部署Ceph集群](https://ansheng.me/centos-manual-deployment-of-ceph-cluster/)中的安装部分，我们需要确保以下操作：
+系统初始化可以参考[CentOS手动部署Ceph集群](https://blog.ansheng.me/post/centos-manual-deployment-of-ceph-cluster/)中的安装部分，我们需要确保以下操作：
 
 1. 设置主机名；
 2. 更新hosts将node5的信息增加上去

@@ -1,6 +1,6 @@
 # 通过智能合约在OpenSea上构建盲盒类型的NFT
 
-在上篇文章中我们介绍了如何通过**[HashLips Art Engine批量创建NFT盲盒的艺术作品](https://ansheng.me/post/hashlips-art-engine-creates-artwork-for-nft-blind-boxes-in-batches)**，这篇文章我们就通过编写自己的智能合约在OpenSea上面发布盲盒类型的NFT。
+在上篇文章中我们介绍了如何通过**[HashLips Art Engine批量创建NFT盲盒的艺术作品](https://blog.ansheng.me/post/hashlips-art-engine-creates-artwork-for-nft-blind-boxes-in-batches)**，这篇文章我们就通过编写自己的智能合约在OpenSea上面发布盲盒类型的NFT。
 
 如果你阅读完上篇文章并且跟着操作了全部，那么你应该会得到以下的CID
 

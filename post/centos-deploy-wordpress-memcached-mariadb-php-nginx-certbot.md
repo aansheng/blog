@@ -565,21 +565,21 @@ Date: Sun, 18 Oct 2020 04:09:15 GMT
 Content-Type: text/html
 Content-Length: 178
 Connection: keep-alive
-Location: <https://ansheng.me/>
+Location: <https://blog.ansheng.me/>
 
 ```
 
 https可以正常访问
 
 ```
-$ curl -I <https://ansheng.me/>
+$ curl -I <https://blog.ansheng.me/>
 HTTP/2 200
 server: nginx
 date: Sun, 18 Oct 2020 04:09:23 GMT
 content-type: text/html; charset=UTF-8
 vary: Accept-Encoding
 x-powered-by: PHP/7.4.11
-link: <https://ansheng.me/wp-json/>; rel="<https://api.w.org/>"
+link: <https://blog.ansheng.me/wp-json/>; rel="<https://api.w.org/>"
 strict-transport-security: max-age=31536000; includeSubDomains
 
 ```

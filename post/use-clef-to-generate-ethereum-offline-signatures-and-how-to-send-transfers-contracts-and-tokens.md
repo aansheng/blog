@@ -1,6 +1,6 @@
 # 利用Clef生成以太坊离线签名以及如何发送转账、合约和Token
 
-在[上篇中](https://ansheng.me/a-more-powerful-clef-user-guide-that-can-replace-geth-account-management/)我们介绍了一些Clef的使用，这篇文章将通过`account_signTransaction api`来进行交易签名，通过通过离线创建转账、合约和Token。
+在[上篇中](https://blog.ansheng.me/post/a-more-powerful-clef-user-guide-that-can-replace-geth-account-management/)我们介绍了一些Clef的使用，这篇文章将通过`account_signTransaction api`来进行交易签名，通过通过离线创建转账、合约和Token。
 
 ## 环境
 

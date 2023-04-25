@@ -1,6 +1,6 @@
 # Geth部署以太坊测试链(testnet)
 
-关于以太坊的基本概念和安装可以参考[Geth部署以太坊私链及基本操作](https://ansheng.me/geth-deploys-ethereum-private-chain-and-basic-operations/)这篇文章，在本篇文章中我们将直接进入部署部分。
+关于以太坊的基本概念和安装可以参考[Geth部署以太坊私链及基本操作](https://blog.ansheng.me/post/geth-deploys-ethereum-private-chain-and-basic-operations/)这篇文章，在本篇文章中我们将直接进入部署部分。
 
 在有些时候我们需要搭建测试网来发布智能合约等操作，毕竟如果是主网是需要用ETH进行支付的，在开发期间这些操作都可使用测试网络进行即可，可以免费获取测试网络的ETH，而且测试网络上面的数据也比较齐全，还提供了很多Web UI来进行操作和查看，所以这篇文章我们将来搭建测试网络，测试网络的数据截至目前为止大概在40~50GB左右，所以请保证你的硬盘>=50GB。
 
@@ -144,7 +144,7 @@ success
 
 下面的操作依旧使用[Web3.py](https://web3py.readthedocs.io/en/stable/)
 
-进入[python](https://ansheng.me/python-full-stack-way/)并创建连接
+进入[python](https://blog.ansheng.me/post/python-full-stack-way)并创建连接
 
 ```
 >>> from web3 import Web3

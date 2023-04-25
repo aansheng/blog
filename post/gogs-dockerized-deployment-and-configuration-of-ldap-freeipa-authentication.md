@@ -4,7 +4,7 @@
 
 ## 安装
 
-关于FreeIPA Server端的部署你可以参考[CentOS部署FreeIPA Server和FreeIPA Client](https://ansheng.me/centos-deploys-freeipa-server-and-freeipa-client/)，这次使用的FreeIPA Server端IP为`95.179.246.183`.
+关于FreeIPA Server端的部署你可以参考[CentOS部署FreeIPA Server和FreeIPA Client](https://blog.ansheng.me/post/centos-deploys-freeipa-server-and-freeipa-client/)，这次使用的FreeIPA Server端IP为`95.179.246.183`.
 
 创建部署目录
 

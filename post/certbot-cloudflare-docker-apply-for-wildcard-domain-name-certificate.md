@@ -1,6 +1,6 @@
 # CertBot+CloudFlare+Docker申请通配符域名证书
 
-之前有讲到过[Certbot使用DNS和文件验证两种方式申请SSL证书](https://ansheng.me/post/certbot-uses-dns-and-file-verification-to-apply-for-ssl-certificates)，但是这种方式无法申请通配符域名，通配符域名只能通过DNS验证的方式来进行。
+之前有讲到过[Certbot使用DNS和文件验证两种方式申请SSL证书](https://blog.ansheng.me/post/certbot-uses-dns-and-file-verification-to-apply-for-ssl-certificates)，但是这种方式无法申请通配符域名，通配符域名只能通过DNS验证的方式来进行。
 
 CertBot提供了很多[DNS插件](https://eff-certbot.readthedocs.io/en/stable/using.html#dns-plugins)，我们会使用[certbot-dns-cloudflare](https://certbot-dns-cloudflare.readthedocs.io/en/stable/)这个插件来进行自动申请和自动部署。
 

@@ -278,4 +278,4 @@ make start
 ## 参考文献
 
 - [Private Networks](https://geth.ethereum.org/docs/interface/private-network)
-- [Geth部署以太坊私链及基本操作](https://ansheng.me/geth-deploys-ethereum-private-chain-and-basic-operations)
+- [Geth部署以太坊私链及基本操作](https://blog.ansheng.me/post/geth-deploys-ethereum-private-chain-and-basic-operations)

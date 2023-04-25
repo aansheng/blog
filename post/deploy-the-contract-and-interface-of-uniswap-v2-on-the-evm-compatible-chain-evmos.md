@@ -4,7 +4,7 @@ Uniswap V2 版本是一个非常值得学习的项目，无论合约还是前端
 
 迫于学习的目的，是很有必要部署一套的，部署完成之后大致可以了解一个Dex是如何运行的。
 
-这次我们在Evmos上面部署，当然理论上在任何兼容EVM链上都是可以的，如何部署Evmos链可以参考我之前写的文章[搭建Evmos多节点的测试环境](https://ansheng.me/post/build-a-multi-node-test-environment-for-evmos)。
+这次我们在Evmos上面部署，当然理论上在任何兼容EVM链上都是可以的，如何部署Evmos链可以参考我之前写的文章[搭建Evmos多节点的测试环境](https://blog.ansheng.me/post/build-a-multi-node-test-environment-for-evmos)。
 
 ## 合约
 

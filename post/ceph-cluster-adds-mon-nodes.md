@@ -6,7 +6,7 @@
 |:--|:--|:--|:--|
 |node6|CentOS 8|192.168.200.106|192.168.201.106|
 
-系统初始化可以参考[CentOS手动部署Ceph集群](https://ansheng.me/centos-manual-deployment-of-ceph-cluster/)中的安装部分，我们需要确保以下操作：
+系统初始化可以参考[CentOS手动部署Ceph集群](https://blog.ansheng.me/post/centos-manual-deployment-of-ceph-cluster/)中的安装部分，我们需要确保以下操作：
 
 1. 设置主机名；
 2. 更新hosts将node5的信息增加上去

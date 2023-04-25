@@ -393,7 +393,7 @@ True
 >>> string="www.ansheng.me"
 # 把就字符串`www.`换成新字符串`https://`
 >>> string.replace("www.","https://")
-'https://ansheng.me'
+'https://blog.ansheng.me'
 # 就字符串`w`换成新字符串`a`只替换`2`次
 >>> string.replace("w","a",2)
 'aaw.ansheng.me'

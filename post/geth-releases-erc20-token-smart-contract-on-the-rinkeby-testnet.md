@@ -1,6 +1,6 @@
 # Geth在以太坊测试链(rinkeby testnet)发布ERC20 Token智能合约
 
-接上面文章[Geth部署以太坊测试链(testnet)](https://ansheng.me/geth-deploys-ethereum-test-chain-testnet/)，下面我们将在太坊rinkeby测试链发布一套自己的数字币，当然只是在测试环境。
+接上面文章[Geth部署以太坊测试链(testnet)](https://blog.ansheng.me/post/geth-deploys-ethereum-test-chain-testnet/)，下面我们将在太坊rinkeby测试链发布一套自己的数字币，当然只是在测试环境。
 
 ## ERC20
 

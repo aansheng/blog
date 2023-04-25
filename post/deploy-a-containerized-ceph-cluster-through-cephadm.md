@@ -54,7 +54,7 @@ $ systemctl enable --now chronyd
 
 - Docker
 
-安装`Docker`请参考[CentOS安装Docker和Docker-componse](https://ansheng.me/centos-install-docker-and-docker-compose/)这篇文章
+安装`Docker`请参考[CentOS安装Docker和Docker-componse](https://blog.ansheng.me/post/centos-install-docker-and-docker-compose/)这篇文章
 
 - 重启系统
 

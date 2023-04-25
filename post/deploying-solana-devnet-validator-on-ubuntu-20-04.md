@@ -171,7 +171,7 @@ source ~/.bashrc
 
 ## 编译安装Solana
 
-参考文章[从源码构建Solana(索拉纳)](https://ansheng.me/build-solana-from-source-code/)。
+参考文章[从源码构建Solana(索拉纳)](https://blog.ansheng.me/post/build-solana-from-source-code/)。
 
 如果你使用的是有GPU的版本，在编译之前需要生成`solana-perf-libs`相关的文件
 
